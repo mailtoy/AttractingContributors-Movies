@@ -21,4 +21,16 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of Movies
-1. La La Land
+1. ไอรอนแมน มหาประลัย คน เกราะ เหล็ก
+2. harry potter
+3. Ratatouille
+4. Tomorrow with yesterday's you
+5. The Devil Wears Prada
+6. Big Hero 6
+7. 3 idiots
+8. Gintama
+9. Your Name.
+10. The GotFather
+11. Fast and Furious 6
+12. La La Land
+
